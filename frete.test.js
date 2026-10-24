@@ -1,4 +1,4 @@
-v// frete.test.js = CÓDIGO DE TESTE do frete (por enquanto, só UM teste)
+// frete.test.js = CÓDIGO DE TESTE do frete (por enquanto, só UM teste)
 
 // executor de testes que já vem dentro do Node
 const test = require('node:test');
